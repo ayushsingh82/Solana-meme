@@ -79,11 +79,8 @@ pip install -r requirements.txt
 Create `.env` file with your API keys:
 ```env
 # Recall API (Required)
-RECALL_API_KEY=your_recall_api_key
-
-# CoinGecko API (Optional - for enhanced data)
-PRODUCTION_API_KEY=c7ba1864dea0741e_9e32516fab7691f8
-SANDBOX_API_KEY=110d6c1dd9a44b12_14d0dd729782cf29
+PRODUCTION_API_KEY=
+SANDBOX_API_KEY=
 ```
 
 ### 3. **Run the Agent**
